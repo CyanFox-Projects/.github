@@ -3,8 +3,8 @@
 Welcome to the **CyanFox** GitHub organization! 🦊  
 
 > [!NOTE]
-> **Development happens on our GitLab instance** – all active work is done at **[git.cyanfox.de](https://git.cyanfox.de)**.  
-> The repositories you see here are **mirrored copies** of the GitLab projects.
+> **Development happens on our Forgejo instance** – all active work is done at **[git.cyanfox.de](https://git.cyanfox.de)**.  
+> The repositories you see here are **mirrored copies** of the Forgejo projects.
 
 ---
 
@@ -26,13 +26,13 @@ CyanFox is a community‑driven organization focused on creating open‑source p
 
 We host a variety of projects ranging from libraries, tools, and applications. Explore our repositories to find projects that interest you—or to start contributing.
 
-| Project | Description | Primary Development (GitLab) | Mirror (GitHub) |
+| Project | Description | Primary Development | Mirror (GitHub) |
 |---------|-------------|------------------------------|----------------|
 | **[Base](https://github.com/CyanFox/Base)** | A modular, extensible Base System built on Laravel 12. | <https://git.cyanfox.de/CyanFox/Base> | <https://github.com/CyanFox/Base> |
 | **[Modules](https://github.com/CyanFox/Modules)** | Ready‑to‑use modules for CyanFox‑Base. | <https://git.cyanfox.de/CyanFox/Modules> | <https://github.com/CyanFox/Modules> |
 | *More projects coming soon!* | — | — | — |
 
-> **Note:** Pushes, issues, and merge requests should be created on GitLab. The GitHub mirrors are read‑only.
+> **Note:** Pushes, issues, and merge requests should be created on Forgejo. The GitHub mirrors are read‑only.
 
 ---
 
@@ -40,9 +40,9 @@ We host a variety of projects ranging from libraries, tools, and applications. E
 
 We welcome contributions from everyone! To get started:
 
-1. **Fork** the GitLab repository you want to contribute to (e.g., `https://git.cyanfox.de/CyanFox/Base`).
+1. **Fork** the repository you want to contribute to (e.g., `https://git.cyanfox.de/CyanFox/Base`).
 2. **Create a new branch** for your feature or bug‑fix.
-3. **Push** your changes to your GitLab fork and open a **Merge Request** (MR).  
+3. **Push** your changes to your fork and open a **Pull Request** (PR).  
 
 > Please read our [contribution guidelines](../CONTRIBUTING.md) before submitting your changes.
 
@@ -50,8 +50,7 @@ We welcome contributions from everyone! To get started:
 
 ## Community & Support  
 
-- **Issues:** Use the *Issues* tab on the **GitLab** project for bug reports and feature requests.  
-- **Discussions:** Join our community discussions on GitLab for Q&A, ideas, and feedback.  
+- **Issues:** Use the *Issues* tab on the **Forgejo** project for bug reports and feature requests.  
 - **Contact:** For organization‑wide inquiries, email us at <info@cyanfox.de>.  
 
 ---
